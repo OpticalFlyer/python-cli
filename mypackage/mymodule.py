@@ -3,7 +3,7 @@ def my_function():
 
 
 def another_function():
-    print('hello from another_function')
+    print('This also works!')
 
 
 if __name__ == "__main__":
