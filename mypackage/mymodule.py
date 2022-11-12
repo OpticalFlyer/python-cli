@@ -1,9 +1,9 @@
 def my_function():
-    print('hello from my_function 2')
+    print('If you see this, it works!')
 
 
 def another_function():
-    print('hello from another_function 2')
+    print('hello from another_function')
 
 
 if __name__ == "__main__":
